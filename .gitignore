@@ -1,0 +1,6 @@
+# Ignore my token file so it's never published.
+**/token_file.*
+# Ignore vim swap files.
+**.sw*
+# Ignore locally installed node modules. (Discord.js)
+**/node_modules/*
