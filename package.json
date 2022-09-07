@@ -1,0 +1,17 @@
+{
+  "name": "emojispammer",
+  "version": "0.0.2",
+  "engines": {
+    "node": ">=16.17.0"
+  },
+  "description": "\"description\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Gazdecki, ZeHolyQofPower#7690",
+  "license": "FOSS?",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}

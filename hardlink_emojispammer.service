@@ -1,0 +1,14 @@
+[Unit]
+Description=EmojiSpammer Bot
+
+[Service]
+ExecStart=/home/gazdecki/Documents/csce585/EmojiSpammer/main.js
+Restart=always
+User=nobody
+Group=nogroup
+Environment=PATH=/home/gazdecki/.nvm/versions/node/v16.17.0/bin/
+Environment=NODE_ENV=production
+WorkingDirectory=/home/gazdecki/Documents/csce585/EmojiSpammer/
+
+[Install]
+WantedBy=multi-user.target
