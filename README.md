@@ -13,3 +13,5 @@ First, just switch into root. All of these are kernal commands and all require a
 
 `journalctl -u emojispammer` checks the console logs.
 
+## Future Adam
+All your friends that wanted to contribute to this? They all dislike Javascript. Use the Python API in the future.
